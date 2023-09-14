@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning **Computer Science,Python,SQL,etc**
 
 - 📫 How to reach me **lakshaysinghal2909@gmail.com**
+- - 📄 Know about my experiences [https://drive.google.com/file/d/1H8QauPkLs-Sutb_pIBEfk-zu30hAFncg/view?usp=sharing](https://drive.google.com/file/d/1H8QauPkLs-Sutb_pIBEfk-zu30hAFncg/view?usp=sharing)
 
 - ⚡ Fun fact **I think i am a good chess player**
 
