@@ -5,12 +5,10 @@
 
 <p align="left"> <a href="https://twitter.com/@lakshay24934934" target="blank"><img src="https://img.shields.io/twitter/follow/@lakshay24934934?logo=twitter&style=for-the-badge" alt="@lakshay24934934" /></a> </p>
 
-- 🌱 I’m currently learning **Development,AI/ML,Python,SQL,etc**
+- 🌱 I’m currently learning **Development, AI/ML, Python, SQL,etc**
 
-- 📫 How to reach me **lakshaysinghal2909@gmail.com**
-- - 📄 Know about my experiences:https://drive.google.com/file/d/1fkTzQgKUcmiAQhOkfKtvUMhzeNCmze1I/view?usp=sharing
 
-- ⚡ Fun fact **I think i am a good chess player**
+- ⚡ Fun fact **I think I am a good chess player**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
