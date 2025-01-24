@@ -4,15 +4,15 @@
 
 <p align="left"> <a href="https://twitter.com/@lakshay24934934" target="blank"><img src="https://img.shields.io/twitter/follow/@lakshay24934934?logo=twitter&style=for-the-badge" alt="@lakshay24934934" /></a> </p>
 
-- 🌱 I’m currently learning **Development, AI/ML, Python, SQL,etc**
+- 🌱 I’m currently learning **Data Analytics, Development, AI/ML, Python, SQL,etc**
 
 
 - ⚡ Fun fact **I think I am a good chess player**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@lakshay24934934" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@lakshay24934934" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/lakshay-singhal-44362917a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakshay-singhal-44362917a" height="30" width="40" /></a>
+<a href="https://twitter.com/@laksha_ysinghal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@lakshay24934934" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lakshay-singhal01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakshay-singhal01" height="30" width="40" /></a>
 <a href="https://instagram.com/laksy_singhal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="laksy_singhal" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/develope_with_me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="develope_with_me" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/lakshay9917" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="lakshay9917" height="30" width="40" /></a>
